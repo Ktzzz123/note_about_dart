@@ -1,0 +1,137 @@
+{
+  "main": {
+    "id": "26aa3d1a180ad198",
+    "type": "split",
+    "children": [
+      {
+        "id": "3670ea140ca8920b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cfbce3bdb8db30a1",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "89c89952ba719253",
+    "type": "split",
+    "children": [
+      {
+        "id": "08fbdf9966041ae0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c13daa1a60b3d301",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "37feeaa33c29e981",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0bf5dd1a45aa9c17",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "61cecccd07a094eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "dca838e71bcee937",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "53b79aa28c634698",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "db115ab78f776f3a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "df5ddecc4959db64",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6cf2838ee24b914a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "cfbce3bdb8db30a1",
+  "lastOpenFiles": [
+    "- Dart is an object-oriented program.md",
+    "assets/Pasted image 20230714160742.png",
+    "Pasted image 20230714160729.png"
+  ]
+}
